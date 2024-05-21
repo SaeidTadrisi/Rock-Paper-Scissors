@@ -1,0 +1,18 @@
+
+.move-buttom{
+background-color: transparent;
+width: 120px;
+height: 120px;
+border: 3px solid white;
+border-radius: 60px;
+margin-right: 10px;
+cursor: pointer;
+}
+
+.reset-button{
+  background-color: white;
+  border: none;
+  padding: 8px 15px;
+  font-size: 15px;
+  cursor: pointer;
+}
